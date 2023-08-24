@@ -1,8 +1,7 @@
 # Article App
 
-A Simple Article App build with Compose. Part of Practice Set in Android Basics With Compose Codelab.
+A simple Article App build with Compose. Part of Practice Set in Android Basics With Compose Codelab.
 
-## Notes
 
 ### Application Architecture
 ---
